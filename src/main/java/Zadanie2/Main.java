@@ -9,7 +9,8 @@ public class Main {
         int[] arrayOfInt = new int[n];
         for (int i = 0; i < n; i++){
             arrayOfInt[i] = input.nextInt();
-        }
+        }///lets go
+
         int i = 0;
         while   (i < arrayOfInt.length){
             summa += arrayOfInt[i];

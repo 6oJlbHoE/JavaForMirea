@@ -18,7 +18,7 @@ public class Author {
         this.email = email;
         this.gender = gender;
     }
-
+    ///
     public void setEmail(String email) {
         this.email = email;
     }
